@@ -2,7 +2,7 @@
 This consists of a ANN model for classifying
 
 # Step 1: EDA
-Explore the relationship between the variables in train and the target variable (weeks until adopted). Also try to design other features we think might be important and test those.
+Explore the relationship between the variables in train and the target variable (weeks until adopted). Also try to design other features we think might be important and test those.Thank you.
 
 Explore:
 The relationship between features and the target vairable
